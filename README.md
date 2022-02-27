@@ -20,4 +20,4 @@ Pull requester kabul dilir. Büyük değişiklikler için lütfen önce neyi de�
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-``Use `code` in your Markdown file.`
+``Use `code` in your Markdown file.``
