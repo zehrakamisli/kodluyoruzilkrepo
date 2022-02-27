@@ -14,8 +14,10 @@ Linux için;
 ``
 cd kodluyoruzilkrepo
 ``
-```
-code .```
+``
+code .``
+
+
 
 # contributing
 Pull requester kabul dilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
