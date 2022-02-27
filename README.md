@@ -4,9 +4,8 @@ Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde b
 # Installation 
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
-C#
-console.write("gh repo clone zehrakamisli/kodluyoruzilkrepo");
+'''python
+print(1gh repo clone zehrakamisli/kodluyoruzilkrepo")
 '''
 
 # Usage
