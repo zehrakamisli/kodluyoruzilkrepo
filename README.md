@@ -4,6 +4,10 @@ Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde b
 # Installation 
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+`` git clone https://github.com/zehrakamisli/kodluyoruzilkrepo
+``  
+
+
 
 
 # Usage
@@ -20,4 +24,4 @@ Pull requester kabul dilir. Büyük değişiklikler için lütfen önce neyi de�
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-``Use `code` in your Markdown file.``
+
