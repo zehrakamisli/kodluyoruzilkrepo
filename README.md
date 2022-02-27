@@ -15,4 +15,4 @@ Pull requester kabul dilir. Büyük değişiklikler için lütfen önce neyi de�
 
 # Licence
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
