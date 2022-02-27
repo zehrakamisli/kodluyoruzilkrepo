@@ -4,6 +4,11 @@ Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde b
 # Installation 
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+'''
+C#
+console.write("gh repo clone zehrakamisli/kodluyoruzilkrepo");
+'''
+
 # Usage
 Projeyi clonladıktan sonra Visual studio Code programından açınız
 
