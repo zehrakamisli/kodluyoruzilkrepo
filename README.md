@@ -5,7 +5,7 @@ Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde b
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 '''python
-print(1gh repo clone zehrakamisli/kodluyoruzilkrepo")
+print("gh repo clone zehrakamisli/kodluyoruzilkrepo")
 '''
 
 # Usage
