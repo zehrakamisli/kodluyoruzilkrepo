@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
 
-
+![deneme](https://github.com/zehrakamisli/kodluyoruzilkrepo/blob/main/git.png)
 
 # Installation 
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
