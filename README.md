@@ -4,8 +4,8 @@ Bu repo Kodluyoruz Front-End eğitiminde olşturduğumuz ilk repo. İçeisinde b
 # Installation 
 öncelikle projeyi clonlayalım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''python
-print("https://github.com/zehrakamisli/kodluyoruzilkrepo")
+'''
+xxxxx
 '''
 
 # Usage
